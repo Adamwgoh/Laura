@@ -1,0 +1,70 @@
+original image
+================   VERTICAL PROJECTION  ============
+0
+band added
+
+
+band added 
+
+
+band added 
+
+
+band added 
+
+
+band added 
+
+
+================ HORIZONTAL PROJECTION  ===============
+====== Image details  ====== 
+image width: 112
+image height:60
+image area: 6720
+image ratio: 1.8666666666666667
+===========================
+
+The cropped image is false possible plate.
+
+
+====== Image details  ====== 
+image width: 442
+image height:30
+image area: 13260
+image ratio: 14.733333333333333
+===========================
+
+The cropped image is false possible plate.
+
+
+====== Image details  ====== 
+image width: 409
+image height:14
+image area: 5726
+image ratio: 29.214285714285715
+===========================
+
+The cropped image is false possible plate.
+
+
+====== Image details  ====== 
+image width: 441
+image height:28
+image area: 12348
+image ratio: 15.75
+===========================
+
+The cropped image is false possible plate.
+
+
+====== Image details  ====== 
+image width: 421
+image height:24
+image area: 10104
+image ratio: 17.541666666666668
+===========================
+
+The cropped image is false possible plate.
+
+
+no possible plate found!

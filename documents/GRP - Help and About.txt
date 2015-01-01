@@ -1,0 +1,69 @@
+ABOUT
+
+Version information
+
+Version   1.20
+Build     1.00 
+Platform  Win32 
+System    Windows 7
+
+
+
+HELP
+
+What is ANPR? 
+
+ANPR is a number plate recognition program used to catch and avert traffic violators on the campus roads.The system detects cars driving in the incorrect direction and identifies the number plates.
+
+How do I import files into the program? (hyperlink)
+
+1. Click the Browse button on the Home screen menu.
+2. Choose your required directory.
+3. Click Open.
+
+How do I add details to the database table? 
+
+1. Open the Home screen.
+2. Enter details in the given textbox.
+
+How do I delete an entry from the database?
+
+1. Select the required entry to be deleted in the table.
+2. Delete
+
+How do I send an email to the car owner? 
+
+1. Open the Database screen.
+2. Click the Email button.
+3. Click the Send button to send the mail.
+
+How do I add an attachment to an email? 
+
+1. Click the Browse button in the Email Application screen.
+2. Choose your required directory.
+3. Click Open.
+
+How do I view the current stream of the camera feed? 
+
+Click the Camera button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

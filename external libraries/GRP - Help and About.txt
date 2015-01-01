@@ -1,0 +1,101 @@
+ABOUT
+
+Version information
+
+Version   1.20
+Build     1.00 
+Platform  Win32 
+System    Windows 7
+
+
+
+HELP
+
+What is ANPR? 
+
+ANPR is a number plate recognition program used to catch and avert traffic violators on the campus roads.The system detects cars driving in the incorrect direction and identifies the number plates.
+
+==========================================================================================
+
+How do I import files into the program?
+
+1. Click the Browse button on the Home screen menu.
+2. Choose your required directory.
+3. Click Open.
+
+==========================================================================================
+
+How do I add details to the database table? 
+
+
+1. Open the Home screen.
+2. Type on the text field and click Search.
+3. The search result will be shown on the table, depending on the match result
+
+==========================================================================================
+
+How do I delete an entry from the database?
+
+
+1. Deletion of a single entry is not yet available. However press clear to clear all entries in the table
+
+==========================================================================================
+
+How do I send an email to the car owner? 
+
+
+1. Open the Home screen
+2. Add Entries to either Active table or Non-active table and by clicking search on the plate number.
+3. Choose to send email to all students or send a general email to the security email.
+
+==========================================================================================
+
+How do I view the current stream of the camera feed? 
+
+
+Click the Camera button.
+
+==========================================================================================
+
+How can I request a new Account?
+
+1. On the Login page, press Request Account.
+2. Enter the required Data
+3. Press “Send Request” Button.
+
+==========================================================================================
+
+How can I change my password?
+
+1. Click on the Username on the top right
+2. Fill in the current password, and then the New password and retype the new password on the third column.
+3. Click “Save Settings Button”
+
+==========================================================================================
+   ADMIN
+==========================================================================================
+
+Administrator power are only given to Admin users. Once logged in as an Admin User, the Admin button will show up below the logout button. Clicking it will display the admin panel
+
+What can I do?
+
+|	Activation	|
+User simply enter the Login_id of the user that want to be activated, and click “Activate” Button.
+
+|	Deactivation	|
+User simply enter the Login_id of the user that want to be deactivated, and click “Deactivate” Button.
+
+|	Delete	|
+User simply enter the Login_id of the user that want to be deleted, and click “Delete” Button.
+
+|	Manual Sign Up	|
+User simply enter required details into the field and click “Create account” button to create a new user immediately.
+
+
+
+
+
+
+
+
+
